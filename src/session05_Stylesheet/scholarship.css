@@ -1,0 +1,39 @@
+scholarship:before{
+    display:block;
+    width: 8em;
+    background-color: #cdf; /*lavender*/
+    font-size: 200%;
+    font-weight: bold;
+    content:"Scholarship List";
+    padding: 15px 15px;
+}
+student{
+    display:block;
+    margin: 1em
+}
+name{
+    display:block;
+    font-size: 150%;
+    font-weight: bold
+}
+class{
+    display: block;
+}
+class:before{
+    content: "Class"
+}
+class:after{
+    content:" 's details:"
+}
+subject{
+    display: block
+}
+marks{
+    display: block
+}
+marks:before{
+    content:"The Final examination: "
+}
+marks:after{
+    content: " marks"
+}

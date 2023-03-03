@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+    <book id="1">
+    <name></name>
+    <author></author>
+    <pages></pages>
+    <price>
+        <cd></cd>
+        <dvd></dvd>
+        <both></both>
+    </price>
+    <TOC></TOC>
+</book>
+</catalogue>
+

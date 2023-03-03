@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hoadon>
+    <ID STT="1">
+    <Productname>Tu lanh</Productname>
+    <Soluong>1</Soluong>
+    <Price>10000</Price>
+    <Total>10000</Total>
+    </ID>
+    
+    <ID STT="2">
+    <Productname>Tu lanh</Productname>
+    <Soluong>1</Soluong>
+    <Price>10000</Price>
+    <Total>10000</Total>
+    </ID>
+    
+    <ID STT="3">
+    <Productname>Tu lanh</Productname>
+    <Soluong>1</Soluong>
+    <Price>10000</Price>
+    <Total>10000</Total>
+    </ID>
+</hoadon>
+

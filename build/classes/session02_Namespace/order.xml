@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orderInfo>
+    <invoice></invoice>
+    <order id="">
+        <customer></customer>
+        <address></address>
+    </order>
+    <totalPrice></totalPrice>
+    <code>
+        <shippingAdress></shippingAdress>
+        <shippingMethod method="air"/>
+        <shippingTotal></shippingTotal>
+    </code>
+    <account state="1">
+        <customer id="1"></customer>
+        <invoicePerriod></invoicePerriod>
+    </account>
+    <shippingInfo>
+        <date></date>
+        <address></address>
+    </shippingInfo>
+    <description></description>
+</orderInfo>
+

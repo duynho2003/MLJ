@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="scholarship.css" type="text/css"?>
+<!--
+    Manage scholarship with details:
+    1. Student name
+    2. Class
+    3. Subject
+    4. Marks -> The Final examination: 100 marks
+    At least 5 students details is recorded
+-->
+<scholarship>
+    <student>
+        <name>Le Van A</name>
+        <class>T1.2201.A1</class>
+        <subject>LBEP</subject>
+        <marks>100</marks>
+    </student>
+    <student>
+        <name>Le Van B</name>
+        <class>T1.2201.A0</class>
+        <subject>LBEP</subject>
+        <marks>100</marks>
+    </student>    
+    <student>
+        <name>Le Van C</name>
+        <class>T1.2201.B1</class>
+        <subject>LBEP</subject>
+        <marks>100</marks>
+    </student>    
+    <student>
+        <name>Le Van D</name>
+        <class>T1.2201.B0</class>
+        <subject>LBEP</subject>
+        <marks>100</marks>
+    </student>    
+    <student>
+        <name>Le Van E</name>
+        <class>T1.2201.B2</class>
+        <subject>LBEP</subject>
+        <marks>100</marks>
+    </student>
+</scholarship>
+

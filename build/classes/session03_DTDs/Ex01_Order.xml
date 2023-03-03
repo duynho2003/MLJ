@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE page SYSTEM "Ex01_Order.dtd">
+<Order OrderNo="0083/98">
+    <Customer>TLT</Customer>
+    <Date>03/12/1998</Date>
+    <OrderDetails No="1">
+        <Item>TV</Item>
+        <Quanity>3</Quanity>
+        <UnitPrice>300</UnitPrice>
+        <Amount>900</Amount>
+    </OrderDetails>
+    <OrderDetails No="2">
+        <Item>Air coditioner</Item>
+        <Quanity>2</Quanity>
+        <UnitPrice>450</UnitPrice>
+        <Amount>900</Amount>
+    </OrderDetails>
+    <OrderDetails No="3">
+        <Item>Fridge</Item>
+        <Quanity>4</Quanity>
+        <UnitPrice>500</UnitPrice>
+        <Amount>2000</Amount>
+    </OrderDetails>
+    <Total>3800 &USD;</Total>
+</Order>

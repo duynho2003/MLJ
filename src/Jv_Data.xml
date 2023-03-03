@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudentList>
+    <Class>FPTu-0110.M0</Class>
+    <Student>
+      <Code>GC000001</Code>
+      <Name>Lê Văn A</Name>
+      <Marks>80</Marks>
+    </Student>
+    <Student>
+      <Code>GC000002</Code>
+      <Name>Lê Văn B</Name>
+      <Marks>85</Marks>
+    </Student>
+    <Student>
+      <Code>GC000003</Code>
+      <Name>Trần Văn C</Name>
+      <Marks>90</Marks>
+    </Student>
+    <Student>
+      <Code>GC000004</Code>
+      <Name>Trần Thị D</Name>
+      <Marks>95</Marks>
+    </Student>
+    <Student>
+      <Code>GC000005</Code>
+      <Name>Nguyễn Thị E</Name>
+      <Marks>100</Marks>
+    </Student>
+</StudentList>

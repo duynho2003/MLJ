@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Comment - Chú thích -->
+
+<tinnhan>           <!--Thẻ root-->
+    <sms id="1">    <!--sms -> parents tag, id -> Thuộc tính-->
+        <soguidi>091</soguidi>  <!--child tag-->
+        <songuoinhan>092</songuoinhan>
+        <noidung>Khoe khong?</noidung> 
+    </sms>
+    
+    <sms id="2">
+        <soguidi>092</soguidi>
+        <songuoinhan>093</songuoinhan>
+        <noidung>Khong khoe!</noidung>   
+    </sms>
+</tinnhan>
+

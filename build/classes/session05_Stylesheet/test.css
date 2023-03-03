@@ -1,0 +1,20 @@
+/*1. Element selector */
+h2{
+    color: #00F;
+}
+/*2. Class selector */
+.classcuatui{
+    background-color: #F90;
+    width: 300px;
+}
+/*3. ID selector */
+#btn{
+    width: 80px;
+}
+/*4. Universal selector */
+*{
+    color: brown;
+}
+
+
+

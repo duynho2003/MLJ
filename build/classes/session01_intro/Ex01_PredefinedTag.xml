@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Comment - Chú thích -->
+
+<tinnhan>
+    <id>1</id>
+    <soguidi>091</soguidi>
+    <songuoinhan>092</songuoinhan>
+    <noidung>Khoe khong?</noidung>
+    <id>2</id>
+    <soguidi>092</soguidi>
+    <songuoinhan>093</songuoinhan>
+    <noidung>Khong khoe!</noidung>   
+</tinnhan>
+

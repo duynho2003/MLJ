@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    default namespace help us saves from uusing prefix in all childs elements
+-->
+<website>
+    <table xmlns="https://www.mysite.com/fruits">
+        <tr>
+            <td>Apples</td>
+            <td>Bananas</td>
+        </tr>
+    </table>
+
+    <table xmlns="https://www.mysite.com/coffee">
+        <name>African Coffee Table</name>
+        <width>80</width>
+        <length>120</length>
+    </table>
+</website>
